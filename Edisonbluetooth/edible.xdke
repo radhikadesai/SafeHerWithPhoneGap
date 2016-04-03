@@ -1,0 +1,72 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "app.json": {
+        "previousModTime": 1459635044000,
+        "modified": 1459635044000,
+        "seen": true,
+        "name": "app.json"
+      },
+      "characteristic.js": {
+        "previousModTime": 1459695420000,
+        "modified": 1459695420000,
+        "seen": true,
+        "name": "characteristic.js"
+      },
+      "edible.xdk": {
+        "previousModTime": 1459637850000,
+        "modified": 1459637850000,
+        "seen": true,
+        "name": "edible.xdk"
+      },
+      "edible.xdke": {
+        "previousModTime": 1459694865000,
+        "modified": 1459694865000,
+        "seen": true,
+        "name": "edible.xdke"
+      },
+      "main.js": {
+        "previousModTime": 1459695404000,
+        "modified": 1459695404000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1459635116000,
+        "modified": 1459635116000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1459637850000,
+        "modified": 1459637850000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "app.json": {
+        "previousModTime": 1459695888893
+      },
+      "characteristic.js": {
+        "previousModTime": 1459695888893
+      },
+      "main.js": {
+        "previousModTime": 1459695888893
+      },
+      "package.json": {
+        "previousModTime": 1459695888893
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1459695888893
+      }
+    }
+  }
+}
